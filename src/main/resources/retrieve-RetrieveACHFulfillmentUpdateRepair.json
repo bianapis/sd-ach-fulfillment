@@ -1,0 +1,17 @@
+{
+  "date" : "2018-09-10",
+  "payerProductInstanceReference" : "PARR6400",
+  "amount" : "5000",
+  "achPaymentTransactionReference" : "APTR1068",
+  "achPaymentTransactionUpdateDescription" : "TransactionDescription",
+  "payeeReference" : "PAEE5007",
+  "payeeProductInstanceReference" : "PAIR7456",
+  "payerBankReference" : "PYBR1093",
+  "payeeBankReference" : "PEBR2783",
+  "paymentTransactionUpdateResult" : "Success",
+  "paymentTransactionInitiatorReference" : "PTIR2320",
+  "dateType" : "Booking",
+  "payerReference" : "PYRE5345",
+  "achPaymentTransactionUpdateReference" : "ATUR3032",
+  "currency" : "USD"
+}

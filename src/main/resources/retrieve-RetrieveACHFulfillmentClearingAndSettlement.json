@@ -1,0 +1,9 @@
+{
+  "correspondentBankClearingAgreementSettlementInstructions" : "DefaultInstructions",
+  "achClearingAndSettlementTaskReference" : "ACSTR453",
+  "correspondentBankReference" : "CBRE0423",
+  "correspondentBankClearingAgreementClearingInstructions" : "ClearingInstructions",
+  "achAccessServiceSessionReference" : "ASSR7685",
+  "mirrorNostroAccountReference" : "MNAR0300",
+  "correspondentBankClearingAgreementReference" : "CBAR7655"
+}

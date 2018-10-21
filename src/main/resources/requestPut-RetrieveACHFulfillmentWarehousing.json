@@ -1,0 +1,18 @@
+{
+  "date" : "2018-09-10",
+  "payerProductInstanceReference" : "PARR6400",
+  "amount" : "5000",
+  "achPaymentTransactionReference" : "APTR1068",
+  "payeeReference" : "PAEE5007",
+  "scheduleReleaseDateTime" : "2018-09-05T05:00:00",
+  "payeeProductInstanceReference" : "PAIR7456",
+  "payerBankReference" : "PYBR1093",
+  "payeeBankReference" : "PEBR2783",
+  "achAccessServiceSessionReference" : "AASSR567",
+  "achTransactionBatchReference" : "ATBR5928",
+  "paymentTransactionInitiatorReference" : "PTIR2320",
+  "dateType" : "Order",
+  "specialInstructions" : "ClearingInstructions",
+  "payerReference" : "PYRE5345",
+  "currency" : "USD"
+}

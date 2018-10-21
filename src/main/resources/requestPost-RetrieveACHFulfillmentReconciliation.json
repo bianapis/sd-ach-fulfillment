@@ -1,0 +1,11 @@
+{
+  "achPaymentTransactionReference" : "APTR1068",
+  "achTransactionReconciliationTaskReference" : "ATTR3491",
+  "correspondentBankReference" : "CBRE0423",
+  "achAccessServiceSessionReference" : "ASSR7685",
+  "mirrorNostroAccountReference" : "MNAR0300",
+  "achTransactionBatchReference" : "ATBR5928",
+  "achReconciliationTaskReference" : "ARTR1089",
+  "achReconciliationTaskResult" : "Success",
+  "achAccessSchedule" : "Daily"
+}
